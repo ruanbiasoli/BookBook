@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Button from navigation bar - Must be button 1`] = `
+<button
+  className="sc-jSFkmK khqXcO"
+  onClick={[Function]}
+>
+  Test
+</button>
+`;
+
+exports[`Snapshot Button from navigation bar to change pages - Must be button 1`] = `
+<div
+  className="sc-pNWxx bhgEAo"
+  onClick={[Function]}
+>
+  Test
+</div>
+`;
+
+exports[`Snapshot Logout button - Must be button 1`] = `
+<button
+  className="sc-dIsAE dtWMFF"
+  onClick={[Function]}
+>
+  Test
+</button>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot addedBook test - must be a function 1`] = `
+<button
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`snapshot fixedInfo test - must be a function 1`] = `
+<button
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`snapshot timelineBooks test - must be a function 1`] = `
+<button
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`snapshot valid login test - must be a function 1`] = `
+<button
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`snapshot volumeInfo test - must be a function 1`] = `
+<button
+  onClick={[Function]}
+>
+  test
+</button>
+`;

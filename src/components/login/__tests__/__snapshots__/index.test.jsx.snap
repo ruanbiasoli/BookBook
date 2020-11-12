@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Must be check if is a valid login 1`] = `
+<button
+  className="sc-gtssRu iTcTwh"
+  onClick={[Function]}
+>
+  Test
+</button>
+`;

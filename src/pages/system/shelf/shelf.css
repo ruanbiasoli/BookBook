@@ -1,0 +1,111 @@
+/*#main_section{
+    width: 90vw;
+    margin: auto;
+}
+    span{
+        font-weight: lighter;
+    }
+
+.books_display{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 3%;
+}
+
+    .book_cards{
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+        .book_cards:hover{
+            box-shadow: 1px 1px 10px gray;
+        }
+
+#title_row{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+#lateral_menu{
+    padding: 10px;
+    list-style: none;
+    height: 100vh;
+    width: 16vw;
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+
+li{
+    padding: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;   
+}
+
+    li:hover{
+        color: #587CFF;
+    }
+
+.top-barLinks{
+    color: white;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+    .top-barLinks:hover{
+        color: #FFC542;
+    }
+
+#logout_button{
+    color: white;
+    font-size: 20px;
+}
+
+
+
+#responsive_menu{
+    display: none;
+}
+
+---------------RESPONSIVE CONTENT---------------------------------
+
+@media screen and (max-width: 800px){
+    .menu_links{
+        display: flex;
+        flex-direction: row;
+    }
+
+    #menu_col{
+        display: none;
+    }
+
+    #responsive_menu{
+        display: flex;
+        justify-content: center;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+        width: 100vw;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    #main_section{
+        justify-content: center;
+    }
+
+    .books_display{
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+    }
+
+    #topbar_menu{
+        display: flex;
+        justify-content: center;
+    }
+}*/
